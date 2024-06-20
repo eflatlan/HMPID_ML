@@ -29,6 +29,13 @@ Plots of miscallenous things
 [HMP_ML.ipynb](HMP_ML.ipynb)
 Scaling, building model etc
 
+### Train-dev-test split
+### Efficiency, purity as function of momentum
+### Accuracy as function of momentum
+### P-R Curves
+
+
+
 # Helper-functions
 - histograms.py
 - make_ckov_prediction.py
