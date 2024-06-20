@@ -1,15 +1,20 @@
 # HMPID_ML
 ML and HTM repo for HMP
 
+## Data-generation
+Use branch [HMPID_MC_TO_ROOT/massHyp](https://github.com/eflatlan/HMPID_MC_TO_ROOT/tree/massHyp) to simulate data.
+The **massHyp** branch has the correct data fields for compatibility with the notebooks here.
+The notebooks converts TTRee to Numpy-dictionaries and Pandas Dataframes
 
-## STATS_ROOT
+## Content 
+### STATS_ROOT
 [STATS_ROOT_python3_10.ipynb](STATS_ROOT_python3_10.ipynb)
 
 Notebook allowing the use of ROOT in Python,
 Some examples of using ROOT histograms and Gaussian KDE for MIP charge of 2 species compared. 
 
-## HTM 
-### 
+### HTM 
+#### 
 [ML/HMP_HTM.ipynb](ML/HMP_HTM.ipynb)
 
 Comparing standard HTM and mass-hypothesis HTM.
@@ -18,7 +23,7 @@ Also plots of contamination, efficiency, purity etc.
 
 
 
-## Statisitc
+### Statisitc
 [ML/HMPStats.ipynb](ML/HMPStats.ipynb)
 
 Plots of miscallenous things
@@ -28,7 +33,7 @@ Plots of miscallenous things
 -  Number of Cherenkov photons vs sin2(ThetaC)
 
 
-# ML
+### ML
 [ML/HMPID_ML.ipynb](ML/HMPID_ML.ipynb)
 Scaling, building model etc
 
@@ -39,7 +44,7 @@ Scaling, building model etc
 - Train-loss curves
 
 
-### Helper-functions
+#### Helper-functions
 - [ML/histograms.py](ML/histograms.py)
 - [ML/make_ckov_prediction.py](ML/make_ckov_prediction.py)
 - [ML/plot_contaminations.py](ML/plot_contaminations.py)
