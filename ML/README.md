@@ -58,3 +58,16 @@ plot_ckov_probs(all_dicts)
 ![Proton z-score](images/SplitPlots/momentums2.png)
 
 ![Proton z-score](images/SplitPlots/momentum.png)
+
+
+# Output plots 
+
+![Proton z-score](images/OutputPlots/PR.png)
+
+![Proton z-score](images/OutputPlots/TrainValid.png)
+
+![Proton z-score](images/OutputPlots/confMatrix.png)
+
+![Proton z-score](images/OutputPlots/momentumAccuracyML.png)
+
+![Proton z-score](images/OutputPlots/proportionPredictedML.png)
