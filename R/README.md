@@ -4,11 +4,11 @@
 
 ### [numCkovPhots vs thetaC](https://github.com/eflatlan/HMPID_ML/blob/d3df0e70a88072860d447cecf9a6bb165d5f41dd/R/numCkovPhots.R#L104-L108)
 
-![numCkovPhots vs thetaC](images/hist2DnumPhots.png)
+![numCkovPhots vs sin2(thetaC)](images/hist2DnumPhotsVckov.png)
 
 ### [numCkovPhots vs sin2(thetaC)](https://github.com/eflatlan/HMPID_ML/blob/d3df0e70a88072860d447cecf9a6bb165d5f41dd/R/numCkovPhots.R#L113-L117)
+![numCkovPhots vs thetaC](images/hist2DnumPhots.png)
 
-![numCkovPhots vs sin2(thetaC)](images/hist2DnumPhotsVckov.png)
 
 
 
