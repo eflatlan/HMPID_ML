@@ -17,13 +17,18 @@
 ![masshypMetrics](masshypMetrics.png)
 
 ## With masshypothesis :
-Change by changning from **TrackAttributes_ckovReconMassHypThisTrack** to **TrackAttributes_ckovReconThisTrack** for **ckov_recon** in **calculate_contamination** 
+
+Change by changning from **TrackAttributes_ckovReconMassHypThisTrack** to **TrackAttributes_ckovReconThisTrack** for **ckov_recon** in **calculate_contamination** / **calculate_purity_efficiency**
+
 ### Section Contamination
+
 ![predictedSpecie](predictedSpecie.png)
+
 ### Section Normalised
 
 ![predictedSpecieNorm](predictedSpecieNorm.png)
 
 ### Section "Efficiciency and Purity vs momentum"
+
 ![purityMomentumHTM](purityMomentumHTM.png)
 
