@@ -1,5 +1,5 @@
 
-### Scatterplots
+# Scatterplots
 **make_ckov_prediction_cut_fig** in HMP_ML
 
 #### Predicted specie kaon, probablity scatter plot per true specie
@@ -8,13 +8,22 @@
 #### Predicted specie proton, probablity scatter plot per true specie
 ![protonProbsScatter.jpg](protonProbsScatter.jpg)
 
-## Metrics comparison
+
+
+# Metrics comparison
+
 ![standardHTMMetrics](standardHTMMetrics.png)
+
 ![masshypMetrics](masshypMetrics.png)
 
-### With masshypothesis :
-
+## With masshypothesis :
+Change by changning from **TrackAttributes_ckovReconMassHypThisTrack** to **TrackAttributes_ckovReconThisTrack** for **ckov_recon** in **calculate_contamination** 
+### Section Contamination
 ![predictedSpecie](predictedSpecie.png)
-![purityMomentumHTM](purityMomentumHTM.png)
+### Section Normalised
+
 ![predictedSpecieNorm](predictedSpecieNorm.png)
+
+### Section "Efficiciency and Purity vs momentum"
+![purityMomentumHTM](purityMomentumHTM.png)
 
