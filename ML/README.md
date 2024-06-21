@@ -47,3 +47,20 @@ plot_ckov_probs(all_dicts)
 ![Pion z-score](ML/images/dataDists/probTruePion.png)
 ![Kaon z-score](ML/images/dataDists/probTrueKaon.png)
 ![Proton z-score](ML/images/dataDists/probTrueProton.png)
+
+
+# Split distributions 
+
+![Proton z-score](images/SplitPlots/momentums2.jpg)
+
+![Proton z-score](images/SplitPlots/momentum.jpg)
+
+![Proton z-score](images/SplitPlots/momentumPerSpecie.jpg)
+
+![Proton z-score](images/SplitPlots/countSpecies.jpg)
+
+![Proton z-score](images/SplitPlots/momentumPerSpecie.jpg)
+
+![Proton z-score](images/SplitPlots/momentums2.jpg)
+
+![Proton z-score](images/SplitPlots/countSpecies.jpg)
