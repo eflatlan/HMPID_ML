@@ -1,18 +1,29 @@
 
 # Scatterplots
-**make_ckov_prediction_cut_fig** in HMP_ML
+**make_ckov_prediction_cut_fig** in [HMPID_ML.ipynb](../ML/HMPID_ML.ipynb)
 
-#### Predicted specie kaon, probablity scatter plot per true specie
+#### Predicted specie kaon 
+
 ![kaonProbsScatter.jpg](kaonProbsScatter.jpg)
 
-#### Predicted specie proton, probablity scatter plot per true specie
+The figure shows the probablity scatter plot per true specie
+
+
+#### Predicted specie proton
+
 ![protonProbsScatter.jpg](protonProbsScatter.jpg)
 
+The figure shows the probablity scatter plot per true specie
 
 
 # Metrics comparison
 **HMP_HTM.ipynb**
+
+
 ![standardHTMMetrics](standardHTMMetrics.png)
+
+**Efficiciency and Purity vs momentum**
+
 
 ![masshypMetrics](masshypMetrics.png)
 
