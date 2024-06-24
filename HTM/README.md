@@ -49,12 +49,14 @@ Change by changning from **TrackAttributes_ckovReconMassHypThisTrack** to **Trac
 
 ![purityMomentumHTM](thetaCer.png)
 
-
+Reconstructed Cherenkov angle with and without MH
 <div style="display: flex; justify-content: space-around;">
     <img src="ckov_recon.png" alt="ckov_recon" width="45%">
     <img src="ckov_reconmh.png" alt="ckov_reconmh" width="45%">
 </div>
 
+
+Difference between theoretical values and reconstruted values:
 
 <div style="display: flex; justify-content: space-around;">
     <img src="diffStd.png" alt="diffStd.png" width="45%">
