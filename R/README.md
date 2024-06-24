@@ -1,3 +1,7 @@
+## Storing of CSV files
+
+CSV files stored in [Stats/HMPStats2.ipynb](../Stats/HMPStats2.ipynb)
+
 ## numCkovPhots
 
 [numCkovPhots](numCkovPhots.R)
