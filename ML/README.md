@@ -44,12 +44,34 @@ section **check specie probs** > plot_attributes_and_scale
 section **raw z-score**
 plot_ckov_probs(all_dicts)
 
+#### True particle is pion
+
 ![Pion z-score](images/dataDists/probTruePion.png)
+
+The z-score (number of std-deviations away from each specie is horizontally)
+
+
+#### True particle is kaon
+
 ![Kaon z-score](images/dataDists/probTrueKaon.png)
+
+The z-score (number of std-deviations away from each specie is horizontally)
+
+
+#### True particle is proton
+
 ![Proton z-score](images/dataDists/probTrueProton.png)
 
+The z-score (number of std-deviations away from each specie is horizontally)
+
+
+**The z-score per specie**
 
 # Split distributions 
+
+**To illustrate that the shuffling is done correctly i.e., we shuffle it such that momentum-distribution is similiar, distrribution of species is similar**
+
+**also to illustrate that they are shuffled with the indices; not all pions coming first fx**
 
 ![Proton z-score](images/SplitPlots/countSpecies.jpg)
 
@@ -61,6 +83,8 @@ plot_ckov_probs(all_dicts)
 
 
 # Output plots 
+
+**Just example, Model was not tuned, and we did not have adequate data**
 
 ![Proton z-score](images/OutputPlots/PR.png)
 
