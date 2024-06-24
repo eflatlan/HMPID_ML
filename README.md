@@ -45,6 +45,7 @@ Scaling, building model etc
 
 
 #### Helper-functions
+##### To use notebooks using these, one must specify the paths
 - [ML/histograms.py](ML/histograms.py)
 - [ML/make_ckov_prediction.py](ML/make_ckov_prediction.py)
 - [ML/plot_contaminations.py](ML/plot_contaminations.py)
