@@ -15,7 +15,7 @@ Some examples of using ROOT histograms and Gaussian KDE for MIP charge of 2 spec
 
 ### HTM 
 #### 
-[ML/HMP_HTM.ipynb](ML/HMP_HTM.ipynb)
+[HTM/HMP_HTM.ipynb](HTM/HMP_HTM.ipynb)
 
 Comparing standard HTM and mass-hypothesis HTM.
 Some plots comparing Ckov values
@@ -24,7 +24,7 @@ Also plots of contamination, efficiency, purity etc.
 
 
 ### Statisitc
-[ML/HMPStats.ipynb](ML/HMPStats.ipynb)
+[Stats/HMPStats.ipynb](Stats/HMPStats.ipynb)
 
 Plots of miscallenous things
 - Scatterplot of track-inclination vs momentum
